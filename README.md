@@ -1,1 +1,3 @@
-# Ghost-Attack
+# Witch-Attack
+
+pip install pygame
